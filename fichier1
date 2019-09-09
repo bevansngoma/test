@@ -1,0 +1,4 @@
+--code PLSQL
+begin
+select * from table1
+end;
